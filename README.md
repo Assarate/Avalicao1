@@ -22,7 +22,7 @@ Caso contrário, fornece uma dica se o próximo valor deve ser maior ou menor qu
 Limpa o campo de entrada (pinInput).
 Limpa o conteúdo do elemento de resultado (result).
 
-##Função showResult(message, className)
+## Função showResult(message, className)
 Exibe uma mensagem de resultado.
 Recebe uma mensagem e uma classe como parâmetros.
 Atualiza o conteúdo do elemento de resultado (result) com a mensagem fornecida.
